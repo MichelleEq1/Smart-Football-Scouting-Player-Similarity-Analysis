@@ -38,6 +38,3 @@ Este proyecto implementa un motor de búsqueda e identificación de futbolistas 
 ---
 
 ## Desarrollado como parte del Portafolio de Analítica Deportiva y Ciencias de Datos.
-# 3. Consulta de jugadores similares
-resultados = buscar_jugadores_similares(nombre_jugador='Jugador_Prueba', top_n=5)
-print(resultados)
